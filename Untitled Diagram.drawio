@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T02:03:23.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="VJ8FXw9ek_u7KEUTyCtS" type="github"><diagram id="ANRXRiYVOwfJ8lAP6EDb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T02:13:08.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="d0m6mpFybOid9iMyGMP7" version="18.1.1" type="github">
+  <diagram id="ANRXRiYVOwfJ8lAP6EDb" name="第 1 页">
+    <mxGraphModel dx="1422" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-70" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-71" value="Actor 1" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-70">
+          <mxGeometry y="40" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-72" value="Phase 1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-71">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-73" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-71">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-74" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-71">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-75" value="Actor 2" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-70">
+          <mxGeometry y="160" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-76" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-75">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-77" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-75">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-78" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-75">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-79" value="Actor 3" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-70">
+          <mxGeometry y="280" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-80" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-79">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-81" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-79">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yk0O0JfAVtLaSXAm15C9-82" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="Yk0O0JfAVtLaSXAm15C9-79">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
